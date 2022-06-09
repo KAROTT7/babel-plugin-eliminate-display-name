@@ -1,0 +1,10 @@
+{
+  "name": "babel-plugin-eliminate-display-name",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "KAROTT",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
