@@ -1,9 +1,15 @@
 {
   "name": "babel-plugin-eliminate-display-name",
+  "description": "A babel plugin that eliminate React.Component displayName.",
   "version": "0.0.1",
   "main": "index.js",
   "author": "KAROTT",
   "license": "MIT",
+  "homepage": "https://github.com/KAROTT7/babel-plugin-eliminate-display-name",
+  "keywords": ["displayName", "babel-plugin"],
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "test": "jest"
   },
