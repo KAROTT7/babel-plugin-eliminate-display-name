@@ -4,7 +4,16 @@
   "main": "index.js",
   "author": "KAROTT",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
+    "@babel/core": "^7.18.2",
+    "@babel/preset-env": "^7.18.2",
+    "@babel/preset-react": "^7.17.12",
     "jest": "^28.1.1"
+  },
+  "dependencies": {
+    "core-js": "^3.22.8"
   }
 }
